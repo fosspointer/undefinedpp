@@ -1,3 +1,7 @@
+# undefinedpp
+
+C++ <sup>*(game-engine)*</sup> programmer, student
+
 ## Personal coding environment
 
 1. OS: [Arch Linux](https://archlinux.org/)
